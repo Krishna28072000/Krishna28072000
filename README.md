@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Krishna28072000
+- 👀 I’m interested in Datascience and GenAI.
+- 🌱 I’m currently learning GenAI and topics necessary for DataScience.
+- 💞️ I’m looking to collaborate on DataScience Field jobs.
+- 📫 You can reach me through LinkedIn and through mail ofcourse.
+- 😄 Pronouns: I like to be call KC as it is simple and cool.
+- ⚡ Fun fact: I'm a Non IT guy (Life science) passionate about technological development and preparing to involve in it.
